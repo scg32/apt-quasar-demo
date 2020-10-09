@@ -1,0 +1,80 @@
+export const JobItems = [
+  {
+    id: 100,
+    engineerName: 'Test Engineer 5',
+    engineerId: 5,
+    clientName: 'test client 1',
+    clientId: 10001,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 10',
+    jobDescription: 'Put 10 m of cable ',
+    jobStatusId: 1
+  },
+  {
+    id: 101,
+    engineerName: 'Test Engineer 6',
+    engineerId: 6,
+    clientName: 'test client 2',
+    clientId: 10002,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 11',
+    jobDescription: 'Put 10 m of cable',
+    jobStatusId: 2
+  },
+  {
+    id: 102,
+    engineerName: 'Test Engineer 7',
+    engineerId: 7,
+    clientName: 'test client 3',
+    clientId: 10003,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 12',
+    jobDescription: 'Put 10 m of cable',
+    jobStatusId: 3
+  },
+  {
+    id: 103,
+    engineerName: 'Test Engineer 5',
+    engineerId: 5,
+    clientName: 'test client 4',
+    clientId: 10004,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 12',
+    jobDescription: 'Put 10 m of cable',
+    jobStatusId: 3
+  },
+  {
+    id: 104,
+    engineerName: 'Test Engineer 6',
+    engineerId: 6,
+    clientName: 'test client 5',
+    clientId: 10005,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 12',
+    jobDescription: 'Put 10 m of cable',
+    jobStatusId: 2
+  },
+  {
+    id: 105,
+    engineerName: 'Test Engineer 7',
+    engineerId: 7,
+    clientName: 'test client 6',
+    clientId: 10006,
+    departmentName: 'Installation',
+    departmentId: 1,
+    jobLocation: { lat: 5.0, lng: -5.3 },
+    address: 'test address 12',
+    jobDescription: 'to jest test,wykonac instalacje kabla 10 m',
+    jobStatusId: 1
+  }
+];
