@@ -1,4 +1,4 @@
-# Locatick Demo (locatick-demo)
+
 
 A Quasar Framework app
 
